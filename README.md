@@ -1,119 +1,77 @@
-<!-- Language Toggle -->
-<p align="right">
-  <a href="#english">🇺🇸 English</a> | 
-  <a href="#japanese">🇯🇵 日本語</a>
-</p>
-
----
-
-# <a id="english"></a>👋 Inoue Masaru
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Inoue%20Masaru&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Intelligent+Systems+Architect;LLM+Systems+Specialist;Full+Stack+AI+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=6C63FF&center=true&vCenter=true&width=750&lines=AI+Engineer;Intelligent+Systems+Architect;LLM+Systems+Specialist;Scalable+AI+Infrastructure+Builder" />
 </p>
 
 ---
 
 ## 🚀 AI Engineer | Intelligent Systems Architect
 
-I design, architect, and deploy production-grade AI systems.  
-My focus is building scalable intelligent infrastructures powered by modern machine learning and LLM technologies.
+I architect and deploy production-grade AI systems designed for real-world scale.
 
-I combine deep AI engineering with strong backend architecture to deliver reliable, high-performance AI products.
+My expertise focuses on Large Language Models, intelligent reasoning pipelines, and high-performance backend infrastructure — transforming advanced AI concepts into reliable, scalable systems.
 
 ---
 
 ## 🧠 Core Expertise
 
-- Large Language Model Systems (LLM Integration & Optimization)
-- AI Pipeline Architecture
-- Mathematical & Algorithmic Modeling
-- High-Performance Backend Engineering
-- AI-Driven Full Stack Applications
+- Large Language Model (LLM) Integration & Optimization  
+- AI System Architecture  
+- Mathematical & Algorithmic Modeling  
+- Scalable Backend Engineering  
+- AI-Powered Full Stack Systems  
 
 ---
 
 ## 🛠 Technology Stack
 
 ### AI / ML
-Python • PyTorch • TensorFlow • Transformers • LLM Systems • Vector Databases
+Python • PyTorch • TensorFlow • Transformers • Vector Databases • LLM Systems
 
 ### Backend
-FastAPI • Node.js • PostgreSQL • Redis • Docker • RESTful Architecture
+FastAPI • Node.js • PostgreSQL • Redis • Docker • RESTful APIs
 
 ### Frontend
-React • Next.js • TypeScript • Modern UI Systems
+React • Next.js • TypeScript
+
+---
+
+## 📊 GitHub Analytics (Live Data)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GenuineGenius999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenuineGenius999&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GenuineGenius999&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GenuineGenius999&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏗 Engineering Philosophy
 
-> Architect intelligence.  
-> Engineer reliability.  
-> Deliver scalable AI systems.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InoueMasaru&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InoueMasaru&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InoueMasaru&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InoueMasaru&theme=tokyo-night&hide_border=true" />
-</p>
+> Architect Intelligence.  
+> Engineer Reliability.  
+> Deliver Scalable AI Systems.
 
 ---
 
 ## 🌐 Professional Links
 
-- Portfolio: https://your-portfolio-link.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your@email.com
+- Portfolio: https://your-portfolio-link.com  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your@email.com  
 
 ---
 
----
-
-# <a id="japanese"></a>🇯🇵 日本語
-
-## 井上 勝
-
-### AIエンジニア | インテリジェントシステム設計者
-
-本番環境で動作するスケーラブルなAIシステムの設計・開発を専門としています。  
-LLM技術を活用した高度なAI基盤構築および高性能バックエンドアーキテクチャ設計に強みがあります。
-
----
-
-### 専門分野
-
-- 大規模言語モデル（LLM）統合・最適化
-- AIパイプライン設計
-- 数理モデリング・アルゴリズム設計
-- 高性能バックエンド構築
-- AI統合型フルスタック開発
-
----
-
-### 技術スタック
-
-Python • PyTorch • TensorFlow  
-FastAPI • PostgreSQL • Docker  
-React • Next.js • TypeScript
-
----
-
-> 知能を設計する。  
-> 信頼性を構築する。  
-> スケーラブルなAIを実装する。
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:928dab,100:1f1c2c&height=120&section=footer"/>
