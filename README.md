@@ -1,93 +1,119 @@
-# 👋 Hi, I'm John Smith
+<!-- Language Toggle -->
+<p align="right">
+  <a href="#english">🇺🇸 English</a> | 
+  <a href="#japanese">🇯🇵 日本語</a>
+</p>
+
+---
+
+# <a id="english"></a>👋 Inoue Masaru
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Intelligent+Systems+Architect;LLM+Systems+Specialist;Full+Stack+AI+Developer" />
+</p>
+
+---
 
 ## 🚀 AI Engineer | Intelligent Systems Architect
 
-I design and build production-grade AI systems that solve real-world problems.
+I design, architect, and deploy production-grade AI systems.  
+My focus is building scalable intelligent infrastructures powered by modern machine learning and LLM technologies.
 
-With strong expertise in Machine Learning, LLM systems, and scalable backend architectures,  
-I specialize in turning complex ideas into deployable intelligent products.
-
----
-
-## 🧠 What I Do
-
-- 🤖 Large Language Model Integration & Optimization
-- 🧮 Mathematical Modeling & AI Algorithms
-- 🧱 Scalable Backend Architecture
-- ⚡ High-Performance API Systems
-- 🌐 AI-powered Full Stack Applications
+I combine deep AI engineering with strong backend architecture to deliver reliable, high-performance AI products.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Core Expertise
 
-### 🔬 AI / ML
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
-![OpenAI](https://img.shields.io/badge/LLM%20Systems-111?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-111?style=for-the-badge)
-
-### 🏗 Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+- Large Language Model Systems (LLM Integration & Optimization)
+- AI Pipeline Architecture
+- Mathematical & Algorithmic Modeling
+- High-Performance Backend Engineering
+- AI-Driven Full Stack Applications
 
 ---
 
-## 🧩 Featured Projects
+## 🛠 Technology Stack
 
-### 🔹 AI-Powered Mathematical Solver
-High-precision symbolic & numerical solving engine with LaTeX rendering.
+### AI / ML
+Python • PyTorch • TensorFlow • Transformers • LLM Systems • Vector Databases
 
-- Advanced expression parsing
-- LLM reasoning pipeline
-- React + KaTeX visualization
-- JSON structured AI responses
+### Backend
+FastAPI • Node.js • PostgreSQL • Redis • Docker • RESTful Architecture
 
----
-
-### 🔹 Intelligent API Architecture
-Production-ready AI backend system with:
-
-- Async task processing
-- Secure authentication
-- Model routing logic
-- PostgreSQL + Redis integration
+### Frontend
+React • Next.js • TypeScript • Modern UI Systems
 
 ---
 
-## 📊 GitHub Stats
+## 🏗 Engineering Philosophy
 
-![Stats](https://github-readme-stats.vercel.app/api?username=johnsmith&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsmith&layout=compact&theme=tokyonight)
-
----
-
-## 🌍 Philosophy
-
-> Build intelligent systems that think.  
-> Engineer solutions that scale.  
-> Design architectures that last.
+> Architect intelligence.  
+> Engineer reliability.  
+> Deliver scalable AI systems.
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Analytics
 
-- 🌐 Portfolio: https://your-portfolio-link.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InoueMasaru&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InoueMasaru&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InoueMasaru&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ⚡ Currently
+## 🔥 Contribution Graph
 
-- Building advanced LLM systems
-- Optimizing AI reasoning pipelines
-- Architecting scalable AI products
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InoueMasaru&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Professional Links
+
+- Portfolio: https://your-portfolio-link.com
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your@email.com
+
+---
+
+---
+
+# <a id="japanese"></a>🇯🇵 日本語
+
+## 井上 勝
+
+### AIエンジニア | インテリジェントシステム設計者
+
+本番環境で動作するスケーラブルなAIシステムの設計・開発を専門としています。  
+LLM技術を活用した高度なAI基盤構築および高性能バックエンドアーキテクチャ設計に強みがあります。
+
+---
+
+### 専門分野
+
+- 大規模言語モデル（LLM）統合・最適化
+- AIパイプライン設計
+- 数理モデリング・アルゴリズム設計
+- 高性能バックエンド構築
+- AI統合型フルスタック開発
+
+---
+
+### 技術スタック
+
+Python • PyTorch • TensorFlow  
+FastAPI • PostgreSQL • Docker  
+React • Next.js • TypeScript
+
+---
+
+> 知能を設計する。  
+> 信頼性を構築する。  
+> スケーラブルなAIを実装する。
