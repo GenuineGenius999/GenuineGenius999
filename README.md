@@ -37,12 +37,15 @@ React • Next.js • TypeScript
 
 ---
 
-## 📊 GitHub Analytics (Live Data)
+## 📊 GitHub Analytics
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GenuineGenius999&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GenuineGenius999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenuineGenius999&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GenuineGenius999&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GenuineGenius999&theme=tokyonight&hide_border=true"/>
