@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=Inoue%20Masaru&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=180&section=header&text=NGUYỄN%20VĂN%20TỪ%20&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=6C63FF&center=true&vCenter=true&width=750&lines=AI+Engineer;Intelligent+Systems+Architect;LLM+Systems+Specialist;Scalable+AI+Infrastructure+Builder" />
