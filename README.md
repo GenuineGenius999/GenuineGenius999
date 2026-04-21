@@ -193,7 +193,19 @@ My expertise focuses on Large Language Models, intelligent reasoning pipelines, 
 
 - Portfolio: https://your-portfolio-link.com  
 - LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your@email.com  
+- Email: your@email.com
+
+---
+
+## <div style="margin-left:10px;"> 💡 Inspiration
+
+This project was slightly inspired by [Vivek Patel's portfolio](https://vivek9patel.github.io/). Check it out for more creative ideas and inspiration!
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d8/55/a2/d855a216c91d7d79fec9ec14c12d9a9b.gif" alt="gif" width="100%">
+</p>
+
+<div style="margin:20px; font-size:20px;"><strong>Enjoy exploring your Windows Clone app! 🎉💻🖱</strong>
 
 ---
 
