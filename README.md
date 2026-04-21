@@ -201,6 +201,4 @@ My expertise focuses on Large Language Models, intelligent reasoning pipelines, 
   <img src="https://i.pinimg.com/originals/d8/55/a2/d855a216c91d7d79fec9ec14c12d9a9b.gif" alt="gif" width="100%">
 </p>
 
----
-
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:928dab,100:1f1c2c&height=120&section=footer"/> -->
