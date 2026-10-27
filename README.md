@@ -103,4 +103,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
 </picture>
 <br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d8/55/a2/d855a216c91d7d79fec9ec14c12d9a9b.gif" alt="gif" width="100%">
+</p>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> -->
+</div></b>
