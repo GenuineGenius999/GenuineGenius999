@@ -74,7 +74,7 @@
 <p><img align="left" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
 <img align="right" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px"></p>
 <p align="center" >💪 Full-Stack Web Development💪<br><br>
-⚡️ React, Next.js, and Node.js⚡️<br><br>
+⚡️ AI Model Training⚡️<br><br>
 🏆 AI Features and LLM Integrations 🏆 <br><br>
 🌍 Dashboards, APIs, and Automation 🌍<br><br>
 🛠️ Python Models and Data Pipelines 🛠️<br><br>
